@@ -1,4 +1,4 @@
-# Person C LearnX API
+# LearnX LLM API call
 
 ## Install
 
